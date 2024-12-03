@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hi, I'm Alankrutha Reddy Purumandla!<br>🎓 Graduate in Information Systems | 💻 Aspiring Data Analyst and Software Developer | 📊 Passionate about Data and Technology<br><br>🚀 About Me<br>I am a data-driven problem solver with a master’s degree in Information Systems from Northeastern University. My passion lies in creating meaningful insights from data, designing intuitive websites, and building impactful visualizations.<br><br>🛠️ What I'm Currently Working On<br>🌟 Developing my personal portfolio to showcase my skills and projects in data analysis and web development https://www.alankruthareddypurumandla.org/.<br>💻 Building interactive websites and dynamic dashboards using tools like Tableau and Power BI.<br>🚀 Experimenting with modern web frameworks to enhance my frontend and backend skills.<br>
 
-🌱 What I'm Learning<br>📈 Advanced SQL techniques for managing and querying large datasets efficiently.<br>🎨 Creating compelling visualizations with Tableau and Power BI to enhance storytelling.<br>🌐 Improving my skills in Flask and React to build full-stack web applications.<br>🎉 Fun Fact<br>🍳 I love cooking and experimenting with various cuisines in my free time! Whether it's trying out traditional recipes or inventing my own, the kitchen is my creative outlet beyond coding.<br>🎵 I also enjoy curating playlists that match my mood while working on projects – music keeps the energy flowing! 🎧<br><br>
+#🌱 What I'm Learning<br>📈 Advanced SQL techniques for managing and querying large datasets efficiently.<br>🎨 Creating compelling visualizations with Tableau and Power BI to enhance storytelling.<br>🌐 Improving my skills in Flask and React to build full-stack web applications.<br>
+
+🎉 Fun Fact<br>🍳 I love cooking and experimenting with various cuisines in my free time! Whether it's trying out traditional recipes or inventing my own, the kitchen is my creative outlet beyond coding.<br>🎵 I also enjoy curating playlists that match my mood while working on projects – music keeps the energy flowing! 🎧<br><br>
 
 
 ## 🌐 Socials:
